@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("Value of 'a' is "+a);
 		System.out.println("Value of 'b' is "+b);
 		System.out.println("Output of 'a' plus 'b' is "+c);
+		System.out.println("Test case completed");
 	}
 
 }
